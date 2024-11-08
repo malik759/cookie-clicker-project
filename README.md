@@ -1,5 +1,5 @@
 Cookie Clicker Project
-This README file provides an overview of the project, how to set it up, key features, and how others can contribute. 
+This README file provides an overview of the project, how to set it up, key features, 
 You can modify it further to match the specific features and structure of your own Cookie Clicker projectr earnings with each click.
 
 Features:
