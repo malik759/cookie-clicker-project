@@ -1,9 +1,9 @@
-Cookie Clicker Project
+Gem Clicker Project
 This README file provides an overview of the project, how to set it up, key features, 
 You can modify it further to match the specific features and structure of your own Cookie Clicker projectr earnings with each click.
 
 Features:
-Clicking Mechanic: Click the cookie to earn gems.
+Clicking Mechanic: Click the Gem to earn gems.
 Upgrades: Purchase upgrades to boost your clicking power and other abilities.
 Power-ups: Unlock and use power-ups that provide temporary boosts (e.g., double clicking power).
 Skill System: Purchase skills that enhance gameplay, such as boosting your gems per second or activating instant rewards.
